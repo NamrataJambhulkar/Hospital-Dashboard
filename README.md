@@ -51,22 +51,22 @@ This project involved comprehensive **data preparation, modeling, and DAX develo
 
 ## 📊 Key Insights
 
-Top Performing Specialties:
+**Top Performing Specialties:**
 Identify which medical specialties receive the highest patient footfall across years.
 
-Age Group Distribution:
+**Age Group Distribution:**
 Understand which age group (children, adults, seniors) contributes most to hospital visits and how their patterns differ.
 
-Geographic Analysis:
+**Geographic Analysis:**
 Discover which districts have the highest patient volumes and how regional healthcare demand changes over time.
 
-Visit Recency Behavior:
+**Visit Recency Behavior:**
 Analyze how recently patients have interacted with the healthcare system — most visits tend to fall within a short time band.
 
-Seasonal Patterns:
+**Seasonal Patterns:**
 Spot patterns in patient activity across different quarters of the year, especially spikes in the latter half.
 
-Year-on-Year Change:
+**Year-on-Year Change:**
 Observe how patient volumes grow or decline year over year with percentage-based KPIs.
 
 ---
