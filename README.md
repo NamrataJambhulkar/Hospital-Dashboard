@@ -91,8 +91,9 @@ Observe how patient volumes grow or decline year over year with percentage-based
 
 ---
 
-> ✅ *This is a sample portfolio project that demonstrates real-world healthcare analytics scenarios using fabricated but realistic data for dashboard storytelling and DAX modeling.*
+> ✅ *This is a portfolio project that demonstrates real-world healthcare analytics scenarios using fabricated but realistic data for dashboard storytelling and DAX modeling.*
 
 ## Author
+
 Namrata Jambhulkar
 
